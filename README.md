@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚕 NYC Yellow Taxi Analytics Project
 
 A complete data project built with NYC Yellow Taxi trip data using Python, SQL, PostgreSQL, Jupyter Notebook, and Power BI. This project takes raw parquet files, cleans and transforms the data, stores it in a structured database, and turns it into clear analysis and dashboards.
@@ -227,3 +228,6 @@ This project shows the ability to work with real world data from raw file ingest
 
 **Sylvie Calvaire**  
 Data Engineering and Analytics Portfolio
+=======
+# nyc-taxi-trip-analysis-dashboard
+>>>>>>> 3a72c5fb12f362d3e533db0d38a8e71ba7fdbdb6
