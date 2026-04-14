@@ -1,0 +1,17 @@
+name: nyc-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - seaborn
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - pyarrow
+  - sqlalchemy
+   - pip
+  - pip:
+      - psycopg2-binary
+      - python-dotenv
+
